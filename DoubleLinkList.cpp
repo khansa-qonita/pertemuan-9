@@ -190,6 +190,12 @@ public :
             return;
         }
 
+        int rollNo;
+        cout << "\nEnter the roll number to search : ";
+        cin >> rollNo;
+
+        Node *current = START;
+
         
     }
 
